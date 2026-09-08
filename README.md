@@ -13,6 +13,7 @@ iDma brings paper-based handwriting into meeting, teaching, and collaboration wo
 | What you need | Resource |
 | --- | --- |
 | Understand the products | [Product overview and comparison](Documents/PRODUCT_OVERVIEW.md) |
+| Get the images used on Amazon | [Amazon image library: PP-100, PP-110, PP-120](Images/Amazon/README.md) |
 | Download images, logos, or videos | [Asset guide and direct downloads](ASSET_GUIDE.md) |
 | Review product specifications | [Product specification workbook](Documents/IDMA_BH_Product_Spec_Sheet%2020260908.xlsx) |
 | Work on B&H item setup | [Procurement guide](Documents/PARTNER_SETUP.md) · [Item master workbook](Documents/IDMA_BH_Item_Master_2026_v1.0.xlsx) |

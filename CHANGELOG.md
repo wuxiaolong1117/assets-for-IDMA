@@ -1,5 +1,12 @@
 # Update History
 
+## September 8, 2026 — Amazon listing images
+
+- Imported 18 gallery images from the Amazon.com listings linked by the IDMA shop: PP-100 (8), PP-110 (4), and PP-120 (6).
+- Added model-based filenames, source ASINs and URLs, image dimensions, SHA-256 checksums, and an image-library ZIP download.
+- Preserved downloaded image bytes. Fifteen images meet a 1000-pixel minimum on both sides; three are undersized. The files do not contain 300-ppi metadata.
+- Kept the existing media in place. This import does not include dedicated gateway, software, HEM-100, or bundle galleries.
+
 ## September 8, 2026 — Partner resource center
 
 - Added an English landing page with product previews, quick navigation, ZIP download, and Git clone instructions.

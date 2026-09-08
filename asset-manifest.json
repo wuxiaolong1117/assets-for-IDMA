@@ -1,6 +1,6 @@
 {
   "updated": "2026-09-08",
-  "description": "Original media and source workbooks. SHA-256 hashes identify exact bytes. ICO dimensions describe the largest selected image.",
+  "description": "Media, source workbooks, and the Amazon image package. SHA-256 hashes identify exact bytes. ICO dimensions describe the largest selected image.",
   "assets": [
     {
       "path": "Brand Logo/logo-black.png",
@@ -205,6 +205,192 @@
       "bytes": 4987890,
       "sha256": "ce1cf750156d03dc8561001d6fa34c131cdba83337837246929fbdb51d2184e0",
       "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Videos/pen_story_he_envoice_1.mp4"
+    },
+    {
+      "path": "Images/Amazon/PP-100/PP-100_Amazon_01.jpg",
+      "bytes": 103369,
+      "sha256": "450e3c412759dafe9ca2a1797b15f3fce3dd875ff7a6c4fdaa573ce160bc3b5d",
+      "width_px": 1000,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-100/PP-100_Amazon_01.jpg",
+      "source_page": "https://www.amazon.com/dp/B0F8MZT8FP"
+    },
+    {
+      "path": "Images/Amazon/PP-100/PP-100_Amazon_02.jpg",
+      "bytes": 156767,
+      "sha256": "e9d30e46e7ef7f5fbfc58aff5c390f11453502c344e3bb082d8d1e964e2ca205",
+      "width_px": 1500,
+      "height_px": 1000,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-100/PP-100_Amazon_02.jpg",
+      "source_page": "https://www.amazon.com/dp/B0F8MZT8FP"
+    },
+    {
+      "path": "Images/Amazon/PP-100/PP-100_Amazon_03.jpg",
+      "bytes": 155798,
+      "sha256": "601a63e384485f2b240167b9ea6aad4f0d9e3a22d5a0c93e2f3283f2916b6e81",
+      "width_px": 1000,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-100/PP-100_Amazon_03.jpg",
+      "source_page": "https://www.amazon.com/dp/B0F8MZT8FP"
+    },
+    {
+      "path": "Images/Amazon/PP-100/PP-100_Amazon_04.jpg",
+      "bytes": 202238,
+      "sha256": "4e8f5cdb4bb7a7d215865f37804dd3af99c7a44a2db9c2b0adeafae6a172fb8f",
+      "width_px": 1000,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-100/PP-100_Amazon_04.jpg",
+      "source_page": "https://www.amazon.com/dp/B0F8MZT8FP"
+    },
+    {
+      "path": "Images/Amazon/PP-100/PP-100_Amazon_05.jpg",
+      "bytes": 193438,
+      "sha256": "09deff70341919e6002a63cca760af1c1459783bd410cfc68c2192afcd28a490",
+      "width_px": 1000,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-100/PP-100_Amazon_05.jpg",
+      "source_page": "https://www.amazon.com/dp/B0F8MZT8FP"
+    },
+    {
+      "path": "Images/Amazon/PP-100/PP-100_Amazon_06.jpg",
+      "bytes": 192542,
+      "sha256": "7449968e91d44725faf2faaf1e89ee56cbe11d4d52599da96d18329c82a5265d",
+      "width_px": 828,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-100/PP-100_Amazon_06.jpg",
+      "source_page": "https://www.amazon.com/dp/B0F8MZT8FP"
+    },
+    {
+      "path": "Images/Amazon/PP-100/PP-100_Amazon_07.jpg",
+      "bytes": 114434,
+      "sha256": "92dd956dd898657e6e38f9c7dbc64b4cf764b0dcaf663f12f1392b2420a041a8",
+      "width_px": 1500,
+      "height_px": 998,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-100/PP-100_Amazon_07.jpg",
+      "source_page": "https://www.amazon.com/dp/B0F8MZT8FP"
+    },
+    {
+      "path": "Images/Amazon/PP-100/PP-100_Amazon_08.jpg",
+      "bytes": 145918,
+      "sha256": "7351e4d2702840cfb040d15a4e27a3322415522060231218975e8f4bbcd1f363",
+      "width_px": 1500,
+      "height_px": 1037,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-100/PP-100_Amazon_08.jpg",
+      "source_page": "https://www.amazon.com/dp/B0F8MZT8FP"
+    },
+    {
+      "path": "Images/Amazon/PP-110/PP-110_Amazon_01.jpg",
+      "bytes": 271750,
+      "sha256": "aabc721dc883b070e40c5988c4aad053dfcd7baefa5e7209cd4e1d0abfb4629d",
+      "width_px": 1500,
+      "height_px": 1000,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-110/PP-110_Amazon_01.jpg",
+      "source_page": "https://www.amazon.com/dp/B0GLY43L6L"
+    },
+    {
+      "path": "Images/Amazon/PP-110/PP-110_Amazon_02.jpg",
+      "bytes": 66878,
+      "sha256": "ac4d4dc3a034409b1ad6451ab04cb252ef3cd2eb5766710c753de2014d75e883",
+      "width_px": 864,
+      "height_px": 1216,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-110/PP-110_Amazon_02.jpg",
+      "source_page": "https://www.amazon.com/dp/B0GLY43L6L"
+    },
+    {
+      "path": "Images/Amazon/PP-110/PP-110_Amazon_03.jpg",
+      "bytes": 195618,
+      "sha256": "fca062d811925dc64f8f3cc7fe53581fb700ec68ff3ec74a89ba0ab384901d53",
+      "width_px": 1000,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-110/PP-110_Amazon_03.jpg",
+      "source_page": "https://www.amazon.com/dp/B0GLY43L6L"
+    },
+    {
+      "path": "Images/Amazon/PP-110/PP-110_Amazon_04.jpg",
+      "bytes": 207053,
+      "sha256": "ef6a6f2af4869bb89b4539c4ea4ec93d63157292f319afb009eea0575ca9aff6",
+      "width_px": 1000,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-110/PP-110_Amazon_04.jpg",
+      "source_page": "https://www.amazon.com/dp/B0GLY43L6L"
+    },
+    {
+      "path": "Images/Amazon/PP-120/PP-120_Amazon_01.jpg",
+      "bytes": 134368,
+      "sha256": "cc2aa78064190db42ba5ec3be66fa109b7c5d16cc848e2833f3d8901a0d6cae9",
+      "width_px": 1112,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-120/PP-120_Amazon_01.jpg",
+      "source_page": "https://www.amazon.com/dp/B0GMDMRZCJ"
+    },
+    {
+      "path": "Images/Amazon/PP-120/PP-120_Amazon_02.jpg",
+      "bytes": 127369,
+      "sha256": "db6daa66d6ef2908e32a5edafa22926157dd449b170b7b07b2c80cf385d4d1c9",
+      "width_px": 1000,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-120/PP-120_Amazon_02.jpg",
+      "source_page": "https://www.amazon.com/dp/B0GMDMRZCJ"
+    },
+    {
+      "path": "Images/Amazon/PP-120/PP-120_Amazon_03.jpg",
+      "bytes": 221400,
+      "sha256": "41f97d29eb2f99b02eeeef89ca7ccb9ad77adaf70097cb6b2fda4809b2e35af3",
+      "width_px": 1000,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-120/PP-120_Amazon_03.jpg",
+      "source_page": "https://www.amazon.com/dp/B0GMDMRZCJ"
+    },
+    {
+      "path": "Images/Amazon/PP-120/PP-120_Amazon_04.jpg",
+      "bytes": 233474,
+      "sha256": "23bab13d8a79560d5d2e4cf97b3e99b9fb4e6b21be8857b78b8f16a29676fcf9",
+      "width_px": 1000,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-120/PP-120_Amazon_04.jpg",
+      "source_page": "https://www.amazon.com/dp/B0GMDMRZCJ"
+    },
+    {
+      "path": "Images/Amazon/PP-120/PP-120_Amazon_05.jpg",
+      "bytes": 192112,
+      "sha256": "eaeab91654ac31d0a4dca522072b6de7fb620a22b83ee418937d13172b1f6498",
+      "width_px": 1000,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-120/PP-120_Amazon_05.jpg",
+      "source_page": "https://www.amazon.com/dp/B0GMDMRZCJ"
+    },
+    {
+      "path": "Images/Amazon/PP-120/PP-120_Amazon_06.jpg",
+      "bytes": 179360,
+      "sha256": "3970f0e31b2ab511074c1ab4a5f8cf3a9e7247faab71ca11dcb55cce70d73daf",
+      "width_px": 1000,
+      "height_px": 1500,
+      "has_transparency": false,
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/PP-120/PP-120_Amazon_06.jpg",
+      "source_page": "https://www.amazon.com/dp/B0GMDMRZCJ"
+    },
+    {
+      "path": "Images/Amazon/IDMA_Amazon_Images_2026-09-08.zip",
+      "bytes": 3061896,
+      "sha256": "2c30ada74efcd64d2eb8336dd1d1435601f3aca36bd11dcf08c37ea76b55c9ff",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/Amazon/IDMA_Amazon_Images_2026-09-08.zip"
     }
   ]
 }

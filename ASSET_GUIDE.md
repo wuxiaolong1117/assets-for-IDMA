@@ -8,6 +8,8 @@ Use the links below to preview or download the original files. Sizes use decimal
 
 ## Choosing a file
 
+**Looking for the Amazon listing images?** Use the [Amazon image library](Images/Amazon/README.md): 18 downloaded gallery images for PP-100, PP-110, and PP-120, with source pages, dimensions, and an image-only ZIP package. Fifteen meet the 1000-pixel minimum on both sides; three are smaller. No 300-ppi metadata is present in these Amazon downloads.
+
 - **Product images:** start with the model-specific JPG. Notebook PNGs are smaller and do not contain transparent backgrounds.
 - **Logos:** start with `logo_1024.png` for layout review and `logo_300.png` for a compact preview. All supplied logo PNGs are fully opaque, including files whose names suggest transparency.
 - **Icons:** ICO files are application icons, not full-resolution product photographs. Listed dimensions refer to the largest selected icon image.
