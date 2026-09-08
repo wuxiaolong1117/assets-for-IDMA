@@ -1,0 +1,210 @@
+{
+  "updated": "2026-09-08",
+  "description": "Original media and source workbooks. SHA-256 hashes identify exact bytes. ICO dimensions describe the largest selected image.",
+  "assets": [
+    {
+      "path": "Brand Logo/logo-black.png",
+      "bytes": 625337,
+      "sha256": "3a93c30d829e3d080724ee493cb8fdfb57860fe9cc8588b936da04277fab450e",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Brand%20Logo/logo-black.png",
+      "width_px": 1254,
+      "height_px": 749,
+      "has_transparency": false
+    },
+    {
+      "path": "Brand Logo/logo-透明.png",
+      "bytes": 5466104,
+      "sha256": "b8384830447b5151cb0e8e260314a3e9ce2c6a907b19942fd73e67a3379ddd73",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Brand%20Logo/logo-%E9%80%8F%E6%98%8E.png",
+      "width_px": 2048,
+      "height_px": 2048,
+      "has_transparency": false
+    },
+    {
+      "path": "Brand Logo/logo_1024 - 副本.png",
+      "bytes": 1086063,
+      "sha256": "7f6ccb5c72e551634d0468eb081a93d174f5e4a58c195409534be9e423c54221",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Brand%20Logo/logo_1024%20-%20%E5%89%AF%E6%9C%AC.png",
+      "width_px": 1024,
+      "height_px": 1024,
+      "has_transparency": false
+    },
+    {
+      "path": "Brand Logo/logo_1024.png",
+      "bytes": 1086063,
+      "sha256": "7f6ccb5c72e551634d0468eb081a93d174f5e4a58c195409534be9e423c54221",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Brand%20Logo/logo_1024.png",
+      "width_px": 1024,
+      "height_px": 1024,
+      "has_transparency": false
+    },
+    {
+      "path": "Brand Logo/logo_300.png",
+      "bytes": 68887,
+      "sha256": "8d719de6ad8fb5f4df64f85dc151e77d11d4688a683000e41754e007662de8a4",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Brand%20Logo/logo_300.png",
+      "width_px": 300,
+      "height_px": 300,
+      "has_transparency": false
+    },
+    {
+      "path": "Brand Logo/透明300k.png",
+      "bytes": 295125,
+      "sha256": "b187ac39ce03d81665e05bdc1677e002c93201b351e8de6fb6f6dd7e007ba8d3",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Brand%20Logo/%E9%80%8F%E6%98%8E300k.png",
+      "width_px": 481,
+      "height_px": 481,
+      "has_transparency": false
+    },
+    {
+      "path": "Documents/IDMA_BH_Item_Master_2026_v1.0.xlsx",
+      "bytes": 47790,
+      "sha256": "41589b0aa25fa336d0317462f5f2eec06de544c9df952664e2fe0c4f8fd74734",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Documents/IDMA_BH_Item_Master_2026_v1.0.xlsx"
+    },
+    {
+      "path": "Documents/IDMA_BH_Product_Spec_Sheet 20260908.xlsx",
+      "bytes": 4454774,
+      "sha256": "fcb23034e409719f4ba1deffafdaf112d3a4fc518218b1c31eadd4d9a6fb18f2",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Documents/IDMA_BH_Product_Spec_Sheet%2020260908.xlsx"
+    },
+    {
+      "path": "Images/PP-100.ico",
+      "bytes": 96143,
+      "sha256": "b7775b172e6bccc9ccd304ce3d9476f93575ade8e9e84251e475a0257099441a",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/PP-100.ico",
+      "width_px": 256,
+      "height_px": 256,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/PP-100.jpg",
+      "bytes": 537055,
+      "sha256": "2673f8f90b1fddb19a6b111d88e61e48f3a2d4d1e2361241affa57721d0e0423",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/PP-100.jpg",
+      "width_px": 2044,
+      "height_px": 1148,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/PP-100.png",
+      "bytes": 245080,
+      "sha256": "600b1b86a86202189147fdce54f41a4f3c907f6d46855bc829b81584524ee29c",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/PP-100.png",
+      "width_px": 381,
+      "height_px": 394,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/PP-110.ico",
+      "bytes": 100913,
+      "sha256": "dbec2bb7c8a7b07cfbff8b014c876808161b31b69cb5891fd840619a024daac6",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/PP-110.ico",
+      "width_px": 256,
+      "height_px": 256,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/PP-110.jpg",
+      "bytes": 1481793,
+      "sha256": "c72697ace9ca23754ddf9b6c1987f251fe086db750aa6fca325fdc0537613548",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/PP-110.jpg",
+      "width_px": 2548,
+      "height_px": 1432,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/PP-110.png",
+      "bytes": 279279,
+      "sha256": "f14f6a12b2370e9de80d7593315783037189080a7dda8a8fd83b255143b90fd2",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/PP-110.png",
+      "width_px": 386,
+      "height_px": 420,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/PP-120.ico",
+      "bytes": 97637,
+      "sha256": "1be56dc1d1115243660748429e4048d35ded52d6d4e4eedb4c87a6f86f5b84d3",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/PP-120.ico",
+      "width_px": 256,
+      "height_px": 256,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/PP-120.jpg",
+      "bytes": 1645496,
+      "sha256": "487a88ca5055c346115f8222271cb48b2b65cb8a92394a74237ca0dbd085a7fb",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/PP-120.jpg",
+      "width_px": 2784,
+      "height_px": 1564,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/PP-120.png",
+      "bytes": 242382,
+      "sha256": "4237fc988a9edf0b863aad3bcbdece65b7e1d1754fa26e99073302c7b3d82713",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/PP-120.png",
+      "width_px": 371,
+      "height_px": 390,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/icon-3.png",
+      "bytes": 1880346,
+      "sha256": "4ef604dda2c6841be65a430ad02820b8ac6ffba9f836574968aab35611f83cb9",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/icon-3.png",
+      "width_px": 1264,
+      "height_px": 848,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/lite.jpg",
+      "bytes": 326255,
+      "sha256": "3e3118a0fcfdbf6fd004c590b64ab343b22d8809ca3c9e11564465477a8130b0",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/lite.jpg",
+      "width_px": 1280,
+      "height_px": 704,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/max.jpg",
+      "bytes": 263517,
+      "sha256": "879be59b858f43168236c617e5a81cb9c28ef58c91d9aa068dd34d70eabdeeba",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/max.jpg",
+      "width_px": 2032,
+      "height_px": 1144,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/meeting.png",
+      "bytes": 2005421,
+      "sha256": "0c145fe8275a91375f6c9927c656460575d367b627167d4c7a30d6587b448030",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/meeting.png",
+      "width_px": 1536,
+      "height_px": 1024,
+      "has_transparency": false
+    },
+    {
+      "path": "Images/pro.jpg",
+      "bytes": 399322,
+      "sha256": "7a2d8fc41d29ebe66b3db1301b2956f61134379b91a5876bdcc9a363cbe6c6df",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Images/pro.jpg",
+      "width_px": 1728,
+      "height_px": 972,
+      "has_transparency": false
+    },
+    {
+      "path": "Videos/pen_story_en_es_final.mp4",
+      "bytes": 15116405,
+      "sha256": "6ae6312ede01283ad6a9cbc06357c23ba107c9dcae08d5600a03e1123ad745b9",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Videos/pen_story_en_es_final.mp4"
+    },
+    {
+      "path": "Videos/pen_story_he_envoice_1.mp4",
+      "bytes": 4987890,
+      "sha256": "ce1cf750156d03dc8561001d6fa34c131cdba83337837246929fbdb51d2184e0",
+      "download_url": "https://raw.githubusercontent.com/wuxiaolong1117/assets-for-IDMA/main/Videos/pen_story_he_envoice_1.mp4"
+    }
+  ]
+}
