@@ -1,0 +1,9 @@
+File Name,B&H SKU,Content / Screen Shown,Suggested Gallery Order
+IDSWCE_01_console.jpg,IDSWCE (SW-CE),"Main control console: AI gateway status, mode selector (Cast / Whiteboard / PiP / Standby), Pro tier, annotator and viewer seat roster",1
+IDSWCE_02_pairing.jpg,IDSWCE (SW-CE),"Search and pair iDma AI Notebooks (PP-100 / PP-110 / PP-120): live signal strength, MAC suffix, battery level, role assignment, Bind / Connect",2
+IDSWCE_03_connection.jpg,IDSWCE (SW-CE),"Confirm connection: bound notebooks listed with signal and status, Set as host, Edit name, Unbind",3
+IDSWCE_04_room_settings.jpg,IDSWCE (SW-CE),"Room personalization: room name, room image, Custom style / Custom logo / Restore default, network and Change Wi-Fi",4
+IDSWCE_05_language_audio.jpg,IDSWCE (SW-CE),"Primary and auxiliary language selection plus audio output, playback and capture device configuration",5
+IDSWCE_06_maintenance.jpg,IDSWCE (SW-CE),"System maintenance: multi-pen, voice control, captions, caption translation, auto minutes, hotkeys, remote annotation, firmware version, remote shut-down",6
+IDSWCE_07_end_meeting.jpg,IDSWCE (SW-CE),"End-of-meeting dialog: Generate summary, Exit without summary, or Cancel and stay in control",7
+IDSWCE_08_ai_summary.jpg,IDSWCE (SW-CE),"Cloud AI meeting summary generation (billed per run) with optional focus instruction and Confirm",8
